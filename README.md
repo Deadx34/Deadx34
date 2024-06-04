@@ -5,7 +5,7 @@
 - 📫 How to reach me isurushehan393@gmail.com
 - 😄 Pronouns: observant
 - ⚡ Fun fact: My nightmare "HELLO WORLD"
-
+<img src="./Hello_there.gif" />
 <!---
 Deadx34/Deadx34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
