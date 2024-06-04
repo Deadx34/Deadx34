@@ -5,7 +5,7 @@
 - 📫 How to reach me isurushehan393@gmail.com
 - 😄 Pronouns: observant
 - ⚡ Fun fact: My nightmare "HELLO WORLD"
-- <div align= "center">
+- <div align= "right">
   <img src="./Hello_there.gif" />
 </div>
 <!---
