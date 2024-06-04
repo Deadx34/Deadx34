@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 50%;">
-    <p>👋 Hi, I’m @Deadx34</p>
+    <p>👋 Hi, I’m @Deadx</p>
     <p>👀 I’m interested in peace and quiet</p>
     <p>🌱 I’m currently learning CS</p>
     <p>💞️ I’m looking to collaborate on success</p>
