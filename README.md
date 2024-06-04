@@ -24,7 +24,7 @@
 Deadx34/Deadx34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- <div align="center">
+<div align="center">
   <img src="./line2.gif" width="50%"/>
 </div>
 
@@ -59,7 +59,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Deadx34&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deadx34&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
 </div>
---->
