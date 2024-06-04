@@ -1,6 +1,6 @@
-<table style="border: 1px solid #0000;">
-  <tr>
-    <td>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <p>👋 Hi, I’m @Deadx 👾</p>
       <p>👀 I’m interested in peace and quiet</p>
       <p>🌱 I’m currently learning CS</p>
@@ -9,7 +9,7 @@
       <p>😄 Pronouns: observant</p>
       <p>⚡ Fun fact: My nightmare is "HELLO WORLD"</p>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="Hello_there.gif" alt="Hello there" style="max-width: 50%;" />
     </td>
   </tr>
