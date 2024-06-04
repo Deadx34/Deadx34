@@ -1,17 +1,18 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <p>- 👋 Hi, I’m @Deadx34</p>
-    <p>- 👀 I’m interested in peace and quiet</p>
-    <p>- 🌱 I’m currently learning cs</p>
-    <p>- 💞️ I’m looking to collaborate on success</p>
-    <p>- 📫 How to reach me isurushehan393@gmail.com</p>
-    <p>- 😄 Pronouns: observant</p>
-    <p>- ⚡ Fun fact: My nightmare "HELLO WORLD"</p>
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <p>👋 Hi, I’m @Deadx34</p>
+    <p>👀 I’m interested in peace and quiet</p>
+    <p>🌱 I’m currently learning CS</p>
+    <p>💞️ I’m looking to collaborate on success</p>
+    <p>📫 How to reach me: isurushehan393@gmail.com</p>
+    <p>😄 Pronouns: observant</p>
+    <p>⚡ Fun fact: My nightmare is "HELLO WORLD"</p>
   </div>
-  <div>
-    <img src="./Hello_there.gif" alt="Hello there" />
+  <div style="flex: 50%;">
+    <img src="./Hello_there.gif" alt="Hello there" style="max-width: 50%;" />
   </div>
 </div>
+
 
 
 
