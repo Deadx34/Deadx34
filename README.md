@@ -1,17 +1,20 @@
-<div style="display: flex;">
-  <div style="flex: 50%;">
-    <p>👋 Hi, I’m @Deadx 👾 </p>
-    <p>👀 I’m interested in peace and quiet</p>
-    <p>🌱 I’m currently learning CS</p>
-    <p>💞️ I’m looking to collaborate on success</p>
-    <p>📫 How to reach me: isurushehan393@gmail.com</p>
-    <p>😄 Pronouns: observant</p>
-    <p>⚡ Fun fact: My nightmare is "HELLO WORLD"</p>
-  </div>
-  <div style="flex: 50%;">
-    <img src="./Hello_there.gif" alt="Hello there" style="max-width: 50%;" />
-  </div>
-</div>
+<table style="border: 1px solid #0000;">
+  <tr>
+    <td>
+      <p>👋 Hi, I’m @Deadx 👾</p>
+      <p>👀 I’m interested in peace and quiet</p>
+      <p>🌱 I’m currently learning CS</p>
+      <p>💞️ I’m looking to collaborate on success</p>
+      <p>📫 How to reach me: isurushehan393@gmail.com</p>
+      <p>😄 Pronouns: observant</p>
+      <p>⚡ Fun fact: My nightmare is "HELLO WORLD"</p>
+    </td>
+    <td>
+      <img src="Hello_there.gif" alt="Hello there" style="max-width: 50%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
