@@ -3,7 +3,7 @@
     <td style="border: none;">
       <p>👋 Hi, I’m @Deadx 👾</p>
       <p>👀 I’m interested in peace and quiet</p>
-      <p>🌱 I’m currently learning CS</p>
+      <p>🌱 I’m currently learning SE</p>
       <p>💞️ I’m looking to collaborate on success</p>
       <p>📫 How to reach me: isurushehan393@gmail.com</p>
       <p>😄 Pronouns: observant</p>
