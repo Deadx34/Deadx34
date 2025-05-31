@@ -9,9 +9,6 @@
       <p>😄 Pronouns: observant</p>
       <p>⚡ Fun fact: My nightmare is "HELLO WORLD"</p>
     </td>
-    <td style="border: none;">
-      <img src="Hello_there.gif" alt="Hello there" style="max-width: 50%;" />
-    </td>
   </tr>
 </table>
 
